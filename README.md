@@ -141,4 +141,4 @@ boxed answer, `b*`, probe records, and token counts. A manifest is written next
 to the output JSONL.
 
 ## Contanct
-- Sheng Liu: 18105891723@163.com
+- Shengjing Liu: 18105891723@163.com
