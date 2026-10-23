@@ -139,3 +139,6 @@ Use `--dataset` when all input rows share a dataset and omit the field.
 Each output row contains the complete response, reasoning, final-answer text,
 boxed answer, `b*`, probe records, and token counts. A manifest is written next
 to the output JSONL.
+
+## Contanct
+- Sheng Liu: 18105891723@163.com
